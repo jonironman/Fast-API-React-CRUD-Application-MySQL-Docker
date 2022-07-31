@@ -1,0 +1,1 @@
+# Fast-API-React-CRUD-Application-MySQL-Docker
